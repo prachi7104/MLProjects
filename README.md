@@ -1,4 +1,4 @@
-Diabetes Prediction using Machine Learning
+Diabetes Risk Analyzer using Machine Learning
 
 
 This project uses the PIMA Diabetes dataset to build a binary classification model that predicts whether a person is diabetic or not based on health-related features. The data is preprocessed and analyzed using Pandas and NumPy, and a Support Vector Machine (SVM) classifier is trained and evaluated using Scikit-learn.
